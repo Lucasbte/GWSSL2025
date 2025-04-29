@@ -21,3 +21,5 @@ synchronized audio recordings in the open field.
 
 Keywords: Bioacoustics · Sound Source Localization · Bird Tracking ·
 Microphone Arrays
+
+Audio files can be downloaded from running the Python notebook.
