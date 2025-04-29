@@ -23,3 +23,9 @@ Keywords: Bioacoustics · Sound Source Localization · Bird Tracking ·
 Microphone Arrays
 
 Audio files can be downloaded from running the Python notebook.
+
+INCLUDES
+
+~ Main Python notebook
+~ .CSV files of detections and ARU coordinates
+~ .DAT files of results with executions attempted
