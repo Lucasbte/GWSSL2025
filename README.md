@@ -3,8 +3,8 @@ Code and data employed in the making of the article "Playback-Based Localization
 
 ABSTRACT
 
-The acoustic localization of wildlife can provide valuable eco-
-logical and conservation information. However, achieving an accurate
+The acoustic localization of wildlife can provide valuable ecological
+and conservation information. However, achieving an accurate
 acoustic source location within a defined area remains challenging due
 to the complexities of real-life (synchronized) landscape passive acoustic
 monitoring. This work presents a multilateration methodology to esti-
