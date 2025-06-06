@@ -1,7 +1,7 @@
 # GWSSL2025
 Code and data employed in the making of the article "Playback-Based Localization of Songbirds Using Multiple Recorders". Written by me, Jonathan Gallego, and Jose David López.
 
-ABSTRACT
+## ABSTRACT
 
 The acoustic localization of wildlife can provide valuable ecological
 and conservation information. However, achieving an accurate
@@ -24,7 +24,7 @@ Microphone Arrays
 
 Audio files can be downloaded from running the Python notebook.
 
-INCLUDES
+## INCLUDES
 
 ~ Main Python notebook
 ~ .CSV files of detections and ARU coordinates
